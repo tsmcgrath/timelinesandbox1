@@ -1,0 +1,262 @@
+{
+    "timeline": [
+      {
+        "category": "Historical",
+        "period": "Roman Empire",
+        "start_time": {
+          "unit": "year",
+          "value": -44
+        },
+        "end_time": {
+          "unit": "year",
+          "value": 754
+        },
+        "subdivisions": [
+          {
+            "name": "Establishment of the Empire",
+            "start_time": {
+              "unit": "year",
+              "value": -44
+            },
+            "end_time": {
+              "unit": "year",
+              "value": 14
+            },
+            "events": [
+              {
+                "name": "Augustus establishes the Empire",
+                "time": {
+                  "unit": "year",
+                  "value": -44
+                },
+                "description": "Augustus establishes the Roman Empire and becomes its first emperor."
+              }
+            ]
+          },
+          {
+            "name": "Early Imperial Period",
+            "start_time": {
+              "unit": "year",
+              "value": 14
+            },
+            "end_time": {
+              "unit": "year",
+              "value": 64
+            },
+            "events": [
+              {
+                "name": "Great Fire of Rome",
+                "time": {
+                  "unit": "year",
+                  "value": 64
+                },
+                "description": "The Great Fire of Rome occurs during the rule of Emperor Nero."
+              }
+            ]
+          },
+          {
+            "name": "Flavian Dynasty",
+            "start_time": {
+              "unit": "year",
+              "value": 69
+            },
+            "end_time": {
+              "unit": "year",
+              "value": 96
+            },
+            "events": [
+              {
+                "name": "Building of the Colosseum",
+                "time": {
+                  "unit": "year",
+                  "value": 80
+                },
+                "description": "Construction of the Colosseum begins under Emperor Vespasian and is completed under his son Titus."
+              }
+            ]
+          },
+          {
+            "name": "Crisis of the Third Century",
+            "start_time": {
+              "unit": "year",
+              "value": 200
+            },
+            "end_time": {
+              "unit": "year",
+              "value": 300
+            },
+            "events": [
+              {
+                "name": "Crisis of the Third Century",
+                "time": {
+                  "unit": "year",
+                  "value": 235
+                },
+                "description": "A period of military, political, and economic crisis that nearly caused the collapse of the Empire."
+              },
+              {
+                "name": "Building of the Baths of Caracalla",
+                "time": {
+                  "unit": "year",
+                  "value": 216
+                },
+                "description": "The Baths of Caracalla are built, one of the largest public baths in Rome."
+              },
+              {
+                "name": "Building of the Aurelian Walls",
+                "time": {
+                  "unit": "year",
+                  "value": 271
+                },
+                "description": "Construction of the Aurelian Walls to protect Rome from external threats."
+              }
+            ]
+          },
+          {
+            "name": "Diocletian and Constantine",
+            "start_time": {
+              "unit": "year",
+              "value": 284
+            },
+            "end_time": {
+              "unit": "year",
+              "value": 337
+            },
+            "events": [
+              {
+                "name": "Reforms of Diocletian",
+                "time": {
+                  "unit": "year",
+                  "value": 284
+                },
+                "description": "Emperor Diocletian introduces significant administrative and military reforms."
+              },
+              {
+                "name": "Battle of Milvian Bridge",
+                "time": {
+                  "unit": "year",
+                  "value": 312
+                },
+                "description": "Constantine wins the Battle of Milvian Bridge, leading to his conversion to Christianity."
+              },
+              {
+                "name": "Founding of Constantinople",
+                "time": {
+                  "unit": "year",
+                  "value": 330
+                },
+                "description": "Constantine founds Constantinople, which becomes the new capital of the Roman Empire."
+              }
+            ]
+          },
+          {
+            "name": "Late Antiquity",
+            "start_time": {
+              "unit": "year",
+              "value": 395
+            },
+            "end_time": {
+              "unit": "year",
+              "value": 476
+            },
+            "events": [
+              {
+                "name": "Definitive separation of Western and Eastern Roman Empire",
+                "time": {
+                  "unit": "year",
+                  "value": 395
+                },
+                "description": "The Roman Empire is definitively split into Western and Eastern halves."
+              },
+              {
+                "name": "Sack of Rome by the Goths",
+                "time": {
+                  "unit": "year",
+                  "value": 410
+                },
+                "description": "The Goths of Alaric sack Rome."
+              },
+              {
+                "name": "Sack of Rome by the Vandals",
+                "time": {
+                  "unit": "year",
+                  "value": 455
+                },
+                "description": "The Vandals of Gaiseric sack Rome."
+              },
+              {
+                "name": "Fall of the Western Roman Empire",
+                "time": {
+                  "unit": "year",
+                  "value": 476
+                },
+                "description": "The fall of the Western Roman Empire and deposition of the final emperor Romulus Augustulus."
+              }
+            ]
+          },
+          {
+            "name": "Middle Ages",
+            "start_time": {
+              "unit": "year",
+              "value": 537
+            },
+            "end_time": {
+              "unit": "year",
+              "value": 754
+            },
+            "events": [
+              {
+                "name": "Gothic War",
+                "time": {
+                  "unit": "year",
+                  "value": 537
+                },
+                "description": "The Goths cut off the aqueducts in the siege of Rome, traditionally regarded as the beginning of the Middle Ages in Italy."
+              },
+              {
+                "name": "Pantheon converted to Christian church",
+                "time": {
+                  "unit": "year",
+                  "value": 608
+                },
+                "description": "Emperor Phocas donates the Pantheon to Pope Boniface IV, converting it into a Christian church; Column of Phocas is erected."
+              },
+              {
+                "name": "Curia Julia transformed",
+                "time": {
+                  "unit": "year",
+                  "value": 630
+                },
+                "description": "The Curia Julia is transformed into the basilica of Sant'Adriano al Foro."
+              },
+              {
+                "name": "Constans II visits Rome",
+                "time": {
+                  "unit": "year",
+                  "value": 663
+                },
+                "description": "Constans II visits Rome, stripping buildings of their ornaments and bronze to be carried back to Constantinople."
+              },
+              {
+                "name": "Lombard conquest of the Exarchate of Ravenna",
+                "time": {
+                  "unit": "year",
+                  "value": 751
+                },
+                "description": "The Lombard conquest of the Exarchate of Ravenna cuts off the Duchy of Rome from the empire."
+              },
+              {
+                "name": "Establishment of the Papal States",
+                "time": {
+                  "unit": "year",
+                  "value": 754
+                },
+                "description": "Alliance with the Franks; Pepin the Younger invades Italy and establishes the Papal States."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  

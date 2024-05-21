@@ -1,0 +1,122 @@
+{
+    "timeline": [
+      {
+        "category": "Historical",
+        "period": "Mayan",
+        "start_time": {
+          "unit": "year",
+          "value": -2000
+        },
+        "end_time": {
+          "unit": "year",
+          "value": 1697
+        },
+        "subdivisions": [
+          {
+            "name": "Preclassic",
+            "start_time": {
+              "unit": "year",
+              "value": -2000
+            },
+            "end_time": {
+              "unit": "year",
+              "value": 250
+            },
+            "events": [
+              {
+                "name": "Early Maya Settlements",
+                "time": {
+                  "unit": "year",
+                  "value": -2000
+                },
+                "description": "The earliest Maya settlements begin to form in the Preclassic period."
+              },
+              {
+                "name": "Development of Writing System",
+                "time": {
+                  "unit": "year",
+                  "value": -500
+                },
+                "description": "The Maya develop a writing system that will become the most sophisticated in pre-Columbian Americas."
+              },
+              {
+                "name": "Rise of El Mirador",
+                "time": {
+                  "unit": "year",
+                  "value": -300
+                },
+                "description": "El Mirador becomes one of the largest cities in the preclassic Maya period."
+              }
+            ]
+          },
+          {
+            "name": "Classic",
+            "start_time": {
+              "unit": "year",
+              "value": 250
+            },
+            "end_time": {
+              "unit": "year",
+              "value": 900
+            },
+            "events": [
+              {
+                "name": "Peak of Tikal",
+                "time": {
+                  "unit": "year",
+                  "value": 600
+                },
+                "description": "Tikal reaches its peak in power and influence during the Classic period."
+              },
+              {
+                "name": "Construction of Temple IV",
+                "time": {
+                  "unit": "year",
+                  "value": 741
+                },
+                "description": "The construction of Tikal's Temple IV, one of the tallest structures in the ancient Americas, is completed."
+              },
+              {
+                "name": "Fall of Teotihuacan",
+                "time": {
+                  "unit": "year",
+                  "value": 750
+                },
+                "description": "The fall of Teotihuacan significantly impacts the political dynamics of the Maya region."
+              }
+            ]
+          },
+          {
+            "name": "Postclassic",
+            "start_time": {
+              "unit": "year",
+              "value": 900
+            },
+            "end_time": {
+              "unit": "year",
+              "value": 1697
+            },
+            "events": [
+              {
+                "name": "Rise of Chichen Itza",
+                "time": {
+                  "unit": "year",
+                  "value": 1000
+                },
+                "description": "Chichen Itza becomes a major regional capital, exerting influence over the northern Maya region."
+              },
+              {
+                "name": "Spanish Conquest",
+                "time": {
+                  "unit": "year",
+                  "value": 1697
+                },
+                "description": "The Spanish conquer the last independent Maya city, Nojpeten, marking the end of the Maya civilization's political independence."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  

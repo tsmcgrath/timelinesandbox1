@@ -1,0 +1,159 @@
+{
+    "timeline": [
+      {
+        "category": "Geologic",
+        "period": "Precambrian",
+        "start_time": {
+          "unit": "million_years_ago",
+          "value": 4600
+        },
+        "end_time": {
+          "unit": "million_years_ago",
+          "value": 541
+        },
+        "subdivisions": [
+          {
+            "name": "Hadean",
+            "start_time": {
+              "unit": "million_years_ago",
+              "value": 4600
+            },
+            "end_time": {
+              "unit": "million_years_ago",
+              "value": 4000
+            },
+            "events": [
+              {
+                "name": "Formation of Earth",
+                "time": {
+                  "unit": "million_years_ago",
+                  "value": 4600
+                },
+                "description": "The Earth formed from the solar nebula approximately 4.6 billion years ago."
+              }
+            ]
+          },
+          {
+            "name": "Archean",
+            "start_time": {
+              "unit": "million_years_ago",
+              "value": 4000
+            },
+            "end_time": {
+              "unit": "million_years_ago",
+              "value": 2500
+            },
+            "events": [
+              {
+                "name": "First Simple Life",
+                "time": {
+                  "unit": "million_years_ago",
+                  "value": 3500
+                },
+                "description": "Simple single-celled organisms appeared around 3.5 billion years ago."
+              }
+            ]
+          },
+          {
+            "name": "Proterozoic",
+            "start_time": {
+              "unit": "million_years_ago",
+              "value": 2500
+            },
+            "end_time": {
+              "unit": "million_years_ago",
+              "value": 541
+            },
+            "events": [
+              {
+                "name": "Oxygenation of Atmosphere",
+                "time": {
+                  "unit": "million_years_ago",
+                  "value": 2300
+                },
+                "description": "Oxygen levels in the atmosphere increased significantly due to photosynthesis by cyanobacteria."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "category": "Geologic",
+        "period": "Paleozoic",
+        "start_time": {
+          "unit": "million_years_ago",
+          "value": 541
+        },
+        "end_time": {
+          "unit": "million_years_ago",
+          "value": 252
+        },
+        "subdivisions": [
+          {
+            "name": "Cambrian",
+            "start_time": {
+              "unit": "million_years_ago",
+              "value": 541
+            },
+            "end_time": {
+              "unit": "million_years_ago",
+              "value": 485
+            },
+            "events": [
+              {
+                "name": "Cambrian Explosion",
+                "time": {
+                  "unit": "million_years_ago",
+                  "value": 541
+                },
+                "description": "A rapid diversification of life forms occurred, leading to the appearance of most major animal phyla."
+              }
+            ]
+          },
+          {
+            "name": "Ordovician",
+            "start_time": {
+              "unit": "million_years_ago",
+              "value": 485
+            },
+            "end_time": {
+              "unit": "million_years_ago",
+              "value": 444
+            },
+            "events": [
+              {
+                "name": "First Vertebrates",
+                "time": {
+                  "unit": "million_years_ago",
+                  "value": 485
+                },
+                "description": "The first vertebrates appeared during the Ordovician period."
+              }
+            ]
+          },
+          {
+            "name": "Silurian",
+            "start_time": {
+              "unit": "million_years_ago",
+              "value": 444
+            },
+            "end_time": {
+              "unit": "million_years_ago",
+              "value": 419
+            },
+            "events": [
+              {
+                "name": "First Land Plants",
+                "time": {
+                  "unit": "million_years_ago",
+                  "value": 430
+                },
+                "description": "The first vascular plants appeared on land during the Silurian period."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  

@@ -1,0 +1,22 @@
+Explanation
+Calculate Total Time Span: Calculate the total time span of the timeline.
+Proportional Position: Calculate the proportional position of each event in the timeline.
+Event Distance: Convert the proportional position to distance in feet.
+Percentage of Total Time: Calculate the percentage of the total time span for each event.
+Percentage of Total Distance: Calculate the percentage of the total distance for each event.
+Ensure Final Event is 100%: Explicitly set the last event's distance and percentages to 100%.
+This corrected algorithm ensures that the final event accurately reflects 100% of both time and distance, with other events proportionally placed along the timeline.
+
+
+Event                               Year       Distance (feet)       % of Total Time       % of Total Distance    Description
+========================================================================================================================================
+Legendary Founding of Rome          -753       0.00                  0.00                  0.00                  According to legend, Rome was founded by Romulus and Remus in 753 BCE.
+Establishment of the Republic       -509       1977.66               37.45                 37.45                 The Roman Republic was established after the overthrow of the last Roman king, Tarquin the Proud.
+First Punic War                     -264       3343.55               63.34                 63.34                 The First Punic War was fought between Rome and Carthage from 264 to 241 BCE.
+Second Punic War                    -218       3539.83               67.04                 67.04                 The Second Punic War saw Hannibal's famous crossing of the Alps and lasted from 218 to 201 BCE.
+Assassination of Julius Caesar      -44        4454.98               84.39                 84.39                 Julius Caesar was assassinated on the Ides of March in 44 BCE, leading to the end of the Roman Republic.
+Battle of Actium                    -31        4513.52               85.47                 85.47                 The Battle of Actium in 31 BCE saw Octavian defeat Antony and Cleopatra, leading to the rise of the Roman Empire.
+Reign of Augustus                   -27        4531.32               85.84                 85.84                 Augustus, the first Roman emperor, ruled from 27 BCE to 14 CE, initiating the Pax Romana.
+Great Fire of Rome                  64         4912.74               93.03                 93.03                 The Great Fire of Rome occurred in 64 CE during the reign of Nero.
+Reforms of Diocletian               284        5181.82               98.14                 98.14                 Emperor Diocletian introduced significant administrative and military reforms in 284 CE.
+Fall of Rome                        476        5280.00               100.00                100.00                The fall of the Western Roman Empire is traditionally dated to 476 CE when the last Roman emperor, Romulus Augustulus, was deposed.

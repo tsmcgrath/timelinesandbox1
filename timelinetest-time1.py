@@ -1,0 +1,35 @@
+# Using minutes instead of feet.
+# Example data
+timeline = {
+    "start_year": -2000,
+    "end_year": 1697,
+    "events": [
+        {"name": "Early Maya Settlements", "year": -2000, "description": "The earliest Maya settlements begin to form."},
+        {"name": "Development of Writing System", "year": -500, "description": "The Maya develop a sophisticated writing system."},
+        {"name": "Rise of El Mirador", "year": -300, "description": "El Mirador becomes a major city."},
+        {"name": "Peak of Tikal", "year": 600, "description": "Tikal reaches its peak power."},
+        {"name": "Construction of Temple IV", "year": 741, "description": "Tikal's Temple IV is completed."},
+        {"name": "Fall of Teotihuacan", "year": 750, "description": "Teotihuacan falls, impacting Maya politics."},
+        {"name": "Rise of Chichen Itza", "year": 1000, "description": "Chichen Itza becomes a major regional capital."},
+        {"name": "Spanish Conquest", "year": 1697, "description": "The Spanish conquer the last independent Maya city."}
+    ]
+}
+
+# Total duration of the walk in minutes (1 hour)
+total_duration_minutes = 60
+
+# Calculate total time span
+total_time_span = timeline["end_year"] - timeline["start_year"]
+
+# Calculate minutes for each event
+for event in timeline["events"]:
+    time_position = event["year"] - timeline["start_year"]
+    proportional_position = time_position / total_time_span
+    event_minutes = proportional_position * total_duration_minutes
+    event["time_minutes"] = event_minutes
+
+# Display the results
+print(f"{'Event':<30} {'Year':<10} {'Time (minutes)':<15} {'Description'}")
+print("="*80)
+for event in timeline["events"]:
+    print(f"{event['name']:<30} {event['year']:<10} {event['time_minutes']:<15.2f} {event['description']}")
