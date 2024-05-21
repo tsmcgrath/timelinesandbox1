@@ -1,0 +1,117 @@
+{
+    "timeline": [
+      {
+        "category": "Geologic",
+        "period": "Precambrian",
+        "start_time": {
+          "unit": "million_years_ago",
+          "value": 4600
+        },
+        "end_time": {
+          "unit": "million_years_ago",
+          "value": 541
+        },
+        "subdivisions": [
+          {
+            "name": "Hadean",
+            "start_time": {
+              "unit": "million_years_ago",
+              "value": 4600
+            },
+            "end_time": {
+              "unit": "million_years_ago",
+              "value": 4000
+            },
+            "events": [
+              {
+                "name": "Formation of Earth",
+                "time": {
+                  "unit": "million_years_ago",
+                  "value": 4600
+                },
+                "description": "The Earth formed from the solar nebula approximately 4.6 billion years ago."
+              }
+            ]
+          },
+          {
+            "name": "Archean",
+            "start_time": {
+              "unit": "million_years_ago",
+              "value": 4000
+            },
+            "end_time": {
+              "unit": "million_years_ago",
+              "value": 2500
+            },
+            "events": [
+              {
+                "name": "First Simple Life",
+                "time": {
+                  "unit": "million_years_ago",
+                  "value": 3500
+                },
+                "description": "Simple single-celled organisms appeared around 3.5 billion years ago."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "category": "Historical",
+        "period": "Mayan",
+        "start_time": {
+          "unit": "year",
+          "value": -2000
+        },
+        "end_time": {
+          "unit": "year",
+          "value": 1697
+        },
+        "subdivisions": [
+          {
+            "name": "Preclassic",
+            "start_time": {
+              "unit": "year",
+              "value": -2000
+            },
+            "end_time": {
+              "unit": "year",
+              "value": 250
+            },
+            "events": [
+              {
+                "name": "Rise of El Mirador",
+                "time": {
+                  "unit": "year",
+                  "value": -300
+                },
+                "description": "El Mirador becomes one of the largest cities in the preclassic Maya period."
+              }
+            ]
+          },
+          {
+            "name": "Classic",
+            "start_time": {
+              "unit": "year",
+              "value": 250
+            },
+            "end_time": {
+              "unit": "year",
+              "value": 900
+            },
+            "events": [
+              {
+                "name": "Peak of Tikal",
+                "time": {
+                  "unit": "year",
+                  "value": 600
+                },
+                "description": "Tikal reaches its peak in power and influence during the Classic period."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  
