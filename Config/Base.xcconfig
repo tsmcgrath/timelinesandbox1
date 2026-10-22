@@ -1,0 +1,2 @@
+// Shared build settings. Local, per-developer overrides (signing team) live in Local.xcconfig.
+#include? "Local.xcconfig"
