@@ -15,6 +15,7 @@ struct TimelineDecodingTests {
           "metadata": {
             "id": "550e8400-e29b-41d4-a716-446655440000",
             "title": "Test",
+            "author": "Tester",
             "source": "AI-generated",
             "generated_by_ai": true,
             "date_created": "2026-01-26"

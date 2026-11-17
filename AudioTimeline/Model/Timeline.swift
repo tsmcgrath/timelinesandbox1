@@ -12,9 +12,9 @@ struct TimelineFile: Codable, Hashable {
 
 struct TimelineMetadata: Codable, Hashable {
     var id: String
-    var title: String?
+    var title: String
     var source: String
-    var author: String?
+    var author: String
     var generatedByAI: Bool
     var model: String?
     var dateCreated: String
