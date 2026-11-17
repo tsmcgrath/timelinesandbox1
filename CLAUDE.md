@@ -37,5 +37,8 @@ xcodebuild test -scheme AudioTimeline -destination 'platform=iOS,name=<Tim's iPh
 - Time units in use: `year` (negative values mean BCE) and `million_years_ago`.
 - `metadata` is required by schema v1.1, but the current sample files lack it, so the model treats it as optional.
 
+## Open questions
+- **Relative importance (`relative_importance`, 0.0–1.0):** How are scores produced: by hand, by AI, or by a formula? Only `roman_timeline_v3.json` has them (19 events, range 0.4–1.0, mean 0.74). Nothing documents the method. Decide this before the filtering feature. Also decide the cutoff that picks which events get narrated.
+
 ## Feature log
 - **0. Project init:** XcodeGen project, Codable timeline models, bundled sample timelines, and a list/detail browser UI with decoding tests.
