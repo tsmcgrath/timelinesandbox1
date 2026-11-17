@@ -1,0 +1,24 @@
+{
+    "configurations": [
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:TimelineTest1}",
+            "name": "Debug TimelineTest1",
+            "target": "TimelineTest1",
+            "configuration": "debug",
+            "preLaunchTask": "swift: Build Debug TimelineTest1"
+        },
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:TimelineTest1}",
+            "name": "Release TimelineTest1",
+            "target": "TimelineTest1",
+            "configuration": "release",
+            "preLaunchTask": "swift: Build Release TimelineTest1"
+        }
+    ]
+}
